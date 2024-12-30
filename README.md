@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @JibberMarx
 - 👀 I’m interested in ... JavaScript
 - 🌱 I’m currently learning ...JavaScript
-- 💞️not looking for collaps :)
+- 💞️not looking for collabs :)
 - 📫 How to reach me ... Discord @jibbermarx
 - 😄 Pronouns: ... 
 - ⚡ Fun fact: ... I like cereal
